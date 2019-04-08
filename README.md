@@ -2,6 +2,8 @@
 
 Diference between 0.0.0.0 and 127.0.0.1 https://viblo.asia/p/infrastructure-127001-bJzKmkd6l9N 
 
+Socket https://hutechos.weebly.com/uploads/1/6/9/3/16936172/bai_8.pdf
+
 # Project Based Learning
 
 A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermixed technologies and languages.
