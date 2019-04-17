@@ -5,6 +5,7 @@ Diference between 0.0.0.0 and 127.0.0.1 https://viblo.asia/p/infrastructure-1270
 ## Socket 
 - https://hutechos.weebly.com/uploads/1/6/9/3/16936172/bai_8.pdf
 - https://www.csd.uoc.gr/~hy556/material/tutorials/cs556-3rd-tutorial.pdf (good)
+- https://medium.com/@copyconstruct/the-method-to-epolls-madness-d9d2d6378642 **epoll**
 
 # Project Based Learning
 
