@@ -8,6 +8,7 @@ Diference between 0.0.0.0 and 127.0.0.1 https://viblo.asia/p/infrastructure-1270
 
 ## epoll
 - https://medium.com/@copyconstruct/the-method-to-epolls-madness-d9d2d6378642 
+- https://stackoverflow.com/questions/51777259/how-to-code-an-epoll-based-sockets-client-in-c
 
 
 # Project Based Learning
